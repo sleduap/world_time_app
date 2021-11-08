@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
                         data['location'],
                         style: const TextStyle(
                           color: Colors.black,
-                          letterSpacing: 3,
+                          letterSpacing: 2,
                           fontWeight: FontWeight.bold,
                           fontSize: 30,
                           fontStyle: FontStyle.italic,
